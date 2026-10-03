@@ -1,3 +1,9 @@
 __pycache__
 .env
 .learn
+.venv/
+data/interim/*
+data/processed/*
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+models/checkpoints/
